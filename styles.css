@@ -1,1 +1,30 @@
-/* Write your own styles here. */
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Raleway', sans-serif;
+    background-color: #98bdc6;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.site-name {
+    font-size: clamp(2rem, 4.5vw, 8rem);
+    font-weight: 100;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: clamp(2rem, 1.5vw, 8rem);
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+
