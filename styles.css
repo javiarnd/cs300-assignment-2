@@ -7,6 +7,10 @@
   font-variation-settings: "GRAD" 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 main{
     display: flex;
     align-items: center;
