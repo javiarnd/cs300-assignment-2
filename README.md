@@ -1,19 +1,19 @@
 # Assignment 2 Starter: Responsive Landing Experience
 
-By the deadline, your README must have:
+- Javier Aranda
 
-- Your name.
-- Your scenario.
-- Your live URL (your GitHub Pages address).
-- A 3-line description of your page.
-- The source of any image you did not make, such as an Unsplash, Pexels, or Pixabay link.
-
-The submission template in D2L is where your screenshots and answers go.
-
-
-Javier Aranda
-
-Scenario Chosen: 
+- Scenario Chosen: 
 Community Workshop 
+
+- Live URL:
+https://javiarnd.github.io/cs300-assignment-2/
+
+- Description of project:
+The River Workshop landing page is a responsive, mobile-first landing page for short practice sessions in HTML, CSS, and keyboard usability.
+Interactive elements include offset box-shadow hover states, text-shadow transitions, and responsive component cards side by side.
+Built with semantic HTML5 and clean CSS flexbox layouts. Dual fonts used Raleway, Google Sans.
+
+
+
 
 
